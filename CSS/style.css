@@ -1,0 +1,51 @@
+header{
+    width: 88%;
+    margin: auto;
+    background: lightseagreen;
+    color: white;
+    line-height: 100px;
+    padding-left: 2%;
+}
+
+nav{
+    background: lightseagreen;
+    height: 50px;
+    width: 90%;
+    line-height: 50px;
+    margin: auto;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li a{
+    float: left;
+    width: 60px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+#container{
+    width: 90%;
+    margin: auto;
+    min-height: 100px;
+    background: white;
+    overflow: hidden;
+}
+
+.kiri{
+    float: left;
+    width: 60%;
+    margin: auto;
+}
+
+.content{
+    border: 2px solid black;
+    margin-top: 10px;
+    padding: 0pc 2pc 2pc 2pc;
+}
+.Kanan{
+
+}
